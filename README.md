@@ -22,3 +22,4 @@ Author: Shiyu Lin
 Technical implementation: p5.js  
 JSON resources: https://www.json.org/json-en.html  
 Link to the book *Dear Data*: https://www.dear-data.com/theproject  
+Link to the Theory of Visual Variables: https://paul.zhdk.ch/pluginfile.php/162444/mod_resource/ content/3/Jacques%20Bertin%20-%20Semiology%20of%20Graphics_%20Diagrams%2C%20Networks%2C%20Maps-Esri%20Press%20%282011%29.pdf   
