@@ -1,0 +1,136 @@
+[
+  {
+    "ts": "2026-02-23 7:15",
+    "dur": 2,
+    "loc": "kitchen",
+    "act": "cooking",
+    "emo": "joy",
+    "keys": ["sunrise yolk", "steam letters"]
+  },
+  {
+    "ts": "2026-02-23 10:30",
+    "dur": 3,
+    "loc": "library window",
+    "act": "reading",
+    "emo": "curious",
+    "keys": ["escaping words"]
+  },
+  {
+    "ts": "2026-02-23 15:55",
+    "dur": 5,
+    "loc": "street",
+    "act": "walking",
+    "emo": "relaxed",
+    "keys": ["ripple steps", "falling wind"]
+  },
+
+  {
+    "ts": "2026-02-24 10:00",
+    "dur": 5,
+    "loc": "desk",
+    "act": "review",
+    "emo": "tired",
+    "keys": ["liquid time", "paper mountains"]
+  },
+  {
+    "ts": "2026-02-24 22:45",
+    "dur": 2,
+    "loc": "bed",
+    "act": "phone",
+    "emo": "calm",
+    "keys": ["falling pixels", "blooming screen"]
+  },
+
+  {
+    "ts": "2026-02-25 06:40",
+    "dur": 2,
+    "loc": "dorm",
+    "act": "meditation",
+    "emo": "calm",
+    "keys": ["halo breath"]
+  },
+  {
+    "ts": "2026-02-25 17:15",
+    "dur": 2,
+    "loc": "classroom",
+    "act": "class",
+    "emo": "tired",
+    "keys": ["backward lines", "whispering chairs"]
+  },
+
+  {
+    "ts": "2026-02-26 15:30",
+    "dur": 6,
+    "loc": "street",
+    "act": "walking",
+    "emo": "relaxed",
+    "keys": ["floating chair"]
+  },
+  {
+    "ts": "2026-02-26 19:40",
+    "dur": 7,
+    "loc": "dorm",
+    "act": "singing",
+    "emo": "joy",
+    "keys": ["dancing shapes"]
+  },
+
+  {
+    "ts": "2026-02-27 08:10",
+    "dur": 2,
+    "loc": "dorm",
+    "act": "organizing",
+    "emo": "calm",
+    "keys": ["drawer waves"]
+  },
+  {
+    "ts": "2026-02-27 11:00",
+    "dur": 3,
+    "loc": "library",
+    "act": "notes",
+    "emo": "curious",
+    "keys": ["page map", "moving ink"]
+  },
+  {
+    "ts": "2026-02-27 16:50",
+    "dur": 3,
+    "loc": "grocery",
+    "act": "shopping",
+    "emo": "relaxed",
+    "keys": ["whispering greens", "forest shelves"]
+  },
+
+  {
+    "ts": "2026-02-28 07:45",
+    "dur": 5,
+    "loc": "dorm",
+    "act": "meditation",
+    "emo": "calm",
+    "keys": ["transparent body"]
+  },
+  {
+    "ts": "2026-02-28 13:30",
+    "dur": 6,
+    "loc": "bus",
+    "act": "commute",
+    "emo": "tired",
+    "keys": ["ribbon road", "season window"]
+  },
+  {
+    "ts": "2026-02-28 23:00",
+    "dur": 6,
+    "loc": "bed",
+    "act": "rest",
+    "emo": "calm",
+    "keys": ["star ceiling", "cloud pillow"]
+  },
+
+  {
+    "ts": "2026-03-01 15:02",
+    "dur": 10,
+    "loc": "corner",
+    "act": "walking",
+    "emo": "joy",
+    "keys": ["split shadow"]
+  }
+]
