@@ -2,8 +2,9 @@
 I found a daydream in the doorway
 
 ## Short Description
-I recorded every moment of daydreaming throughout the week. Furthermore, I have transformed this self-observation into structured data and visualised it. Each door corresponds to a specific instance of daydreaming: where it occurred, its duration, the accompanying mood, its content, and so forth.
-Inspired by Giorgia Lupi and Stefanie Posavec’s *Dear Data* (2016), this project treats personal experiences as a form of data that can be recorded, organised and used to tell stories.
+This project is a personal data visualisation experiment exploring ‘daydreaming’. I have recorded every moment of daydreaming I experienced this week. Furthermore, I have transformed this self-observation into structured data and visualised it. Each door corresponds to a specific daydream: the location, duration, mood at the time, the content of the dream, and so on.  
+
+Inspired by Giorgia Lupi and Stefanie Posavec’s Dear Data (2016), this project treats personal experience as a form of data that can be recorded, organised and used to tell a story.
 
 ## How to Run / Install
 1. Download or clone the project folder.
