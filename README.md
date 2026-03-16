@@ -18,7 +18,7 @@ Activity: Symbol (Movement: Overlapping double triangles; Learning: Square; Mood
 Daydream keyword: Text display  
 
 ## Acknowledgements
-Author: Shiyu Lin
-Technical implementation: p5.js
-JSON resources: https://www.json.org/json-en.html
-Link to the book *Dear Data*: https://www.dear-data.com/theproject
+Author: Shiyu Lin  
+Technical implementation: p5.js  
+JSON resources: https://www.json.org/json-en.html  
+Link to the book *Dear Data*: https://www.dear-data.com/theproject  
