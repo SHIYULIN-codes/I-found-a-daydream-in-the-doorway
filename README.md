@@ -9,13 +9,13 @@ Inspired by Giorgia Lupi and Stefanie Posavec’s *Dear Data* (2016), this proje
 1. Download or clone the project folder.
 2. Open index.html in your browser.
 
-How to read it:
-Occurrence time: Door's position in the corridor
-Duration: Size of door gap
-Mood: Door's colour tone (Pleasant: Bright orange; Relaxed: Light green; Calm, at ease: Light blue; Tired, hazy: Pale lilac-grey; Curious: Pink) 
+How to read it:  
+Occurrence time: Door's position in the corridor  
+Duration: Size of door gap  
+Mood: Door's colour tone (Pleasant: Bright orange; Relaxed: Light green; Calm, at ease: Light blue;   Tired, hazy: Pale lilac-grey; Curious: Pink)   
 Location: Door shape (Indoors: Rounded door frame; Outdoors: Square door frame + small triangular roof)
-Activity: Symbol (Movement: Overlapping double triangles; Learning: Square; Mood regulation: Wavy line; Routine tasks: Three small dots)
-Daydream keyword: Text display
+Activity: Symbol (Movement: Overlapping double triangles; Learning: Square; Mood regulation: Wavy line; Routine tasks: Three small dots)  
+Daydream keyword: Text display  
 
 ## Acknowledgements
 Author: Shiyu Lin
